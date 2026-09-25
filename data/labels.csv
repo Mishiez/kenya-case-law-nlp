@@ -1,0 +1,38 @@
+item,type,text,note
+L01,DATE,26/6/2025,
+L02,CASE_REF,Land Case E018 of 2025,
+L02,CASE_REF,[2026] KEELC 1791 (KLR),
+L02,DATE,25 March 2026,
+L02,CASE_REF,[2026] KEELC 1791 (KLR),
+L02,CASE_REF,Land Case E018 of 2025,
+L02,DATE,"March 25, 2026",
+L02,DATE,24 th February 2025,spaced ordinal
+L03,CASE_REF,(2007] KECA 115 [KLR),garbled brackets in source
+L03,CASE_REF,[2024) KEELC 1505 (KLR]),garbled brackets in source
+L03,CASE_REF,[1992] KECA 42 (KLR],garbled closing bracket in source
+L04,CASE_REF,[1992] KLR 21,
+L05,DATE,14.01.2020,
+L06,DATE,21/6/2021,
+L07,DATE,14 th February 2020,spaced ordinal
+L07,CASE_REF,High Court Civil Case No. 3590 of 1995,
+L07,DATE,14/02/2020,
+L07,CASE_REF,High Court Civil Case No. 3590 of 1995,
+L07,CASE_REF,Civil Appeal No 284 of 2020,
+L08,MONEY,"Ksh. 131,931/=",
+L09,CASE_REF,[2023] KEELRC 2042 (KLR),
+L09,MONEY,"Kshs.7,409",
+L09,MONEY,"Kshs.7,779.45",
+L09,MONEY,"Ksh.8,500",
+L09,MONEY,9.000,no currency marker; context makes it shillings; dot used as thousands separator
+L09,MONEY,"Kshs.10,000",
+L10,MONEY,"Kshs 4, 000",stray space inside the number
+L11,DATE,1.7.2015,
+L11,DATE,"20 th July, 2015",spaced ordinal
+L12,CASE_REF,[2003] KLR 665,
+L12,CASE_REF,[2003] 2 EA 519,volume number before report name
+L12,CASE_REF,[1969] EA 318,
+L12,CASE_REF,[1931] 47 TLK 557,foreign law report; TLK is a typo for TLR
+L13,CASE_REF,[1972] ALL ER 606,no space between case name and bracket in source
+L17,CASE_REF,[2004] 2 EA 163,volume number before report name
+L19,DATE,"23 RD DAY OF MARCH, 2026",formal delivery line
+L20,CASE_REF,[1908] 24 T.L.R. 548,foreign law report with dotted abbreviation
